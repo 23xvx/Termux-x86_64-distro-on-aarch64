@@ -1,6 +1,6 @@
 ## Run different architecture distros in termux !
-A automatic script to install any distro by yourself in Termux, but in different architecture using QEMU support.
-
+- A automatic script to install any distro by yourself in Termux, but in different architecture using QEMU support.
+- Only support aarch64 architecture!
 
 ### Running x86_64 distros
 ```bash 
